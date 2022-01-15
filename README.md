@@ -14,7 +14,7 @@
     <code><a href="https://github.com/xchsdo/cnarea"><img src="https://img.shields.io/github/stars/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/cnarea"><img src="https://img.shields.io/github/followers/xchsdo"></a></code>
     <code><a href="https://github.com/xchsdo/cnarea"><img src="https://img.shields.io/github/issues/xchsdo/cnarea"></a></code>
-    <code><a href="https://github.com/xchsdo/cnarea"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.xchsdo"></a></code>
+    <code><a href="https://github.com/xchsdo/cnarea"><img src="https://visitor-badge.glitch.me/badge?page_id=xchsdo.cnarea"></a></code>
     <code><a href="https://github.com/xchsdo/cnarea"><img src="https://img.shields.io/github/forks/xchsdo/cnarea"></a></code>
     </br></br>
     <code><a href="https://github.com/xchsdo/cnarea/blob/master/LICENSE"><img src="https://img.shields.io/github/license/xchsdo/cnarea"></a></code>
